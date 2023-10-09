@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Checkout Page</h1>
+<h1 align="center">Homepage</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://rodoct.github.io/Checkout-Page/">
+    <a href="https://rodoct.github.io/Homepage/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://legacy.devchallenges.io/solutions/Oo6dBeiTpsIPfBfjjAQF">
+    <a href="https://legacy.devchallenges.io/solutions/R0A9F2zDcPYHGo2c6naN">
       Solution
     </a>
     <span> | </span>
-    <a href="https://legacy.devchallenges.io/challenges/0J1NxxGhOUYVqihwegfO">
+    <a href="https://legacy.devchallenges.io/challenges/xobQBuf8zWWmiYMIAZe0">
       Challenge
     </a>
   </h3>
@@ -49,5 +49,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://github.com/RodoCT)
+- GitHub [RodoCT](https://github.com/RodoCT)
 - Twitter [@your-twitter](https://{twitter.com/your-username})
